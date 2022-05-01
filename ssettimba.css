@@ -1,0 +1,12 @@
+/*html,body{
+    background-color: blue;
+}*/
+B{
+    font-size:30px;
+}
+.mode{
+    float: right;
+}
+div.mod{
+ text-transform: capitalize;
+}
