@@ -4,9 +4,12 @@
 B{
     font-size:30px;
 }
-.mode{
+.moded{
     float: right;
 }
-div.mod{
- text-transform: capitalize;
+.followers{
+display: inline;
+height: 30px;
+width: 50px;
+background-color: blue;
 }
