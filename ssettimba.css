@@ -11,6 +11,7 @@ strong{
 }
 .moded{
     float: right;
+    color: goldenrod;
 }
 .followers{
 display: inline;
@@ -69,10 +70,14 @@ box-shadow: 0 -5px 0 0 hsl(208, 92%, 53%);
        top: 30px;       
   }
   
-  header{
+  header,.moded{
     background-color: hsl(232, 19%, 20%);
-
-    background-position: 60px 70px;
+border-radius: 4px;
     
+    color:hsl(0, 0%, 100%) ;
+    
+  }
+  body{
+      background-color: hsl(230, 17%, 14%);
   }
 }
