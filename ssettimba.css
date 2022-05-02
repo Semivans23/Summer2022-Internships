@@ -3,7 +3,7 @@
     
     html,body,div,span{
         margin-left: 40px;
-        background-image:linear-gradient(hsl(210, 78%, 56%),hsl(146% 68%, 55%));
+        
     
     }
 strong{
@@ -69,4 +69,10 @@ box-shadow: 0 -5px 0 0 hsl(208, 92%, 53%);
        top: 30px;       
   }
   
+  header{
+    background-color: hsl(232, 19%, 20%);
+
+    background-position: 60px 70px;
+    
+  }
 }
